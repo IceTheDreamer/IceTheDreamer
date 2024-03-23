@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IceTheDreamer
-- 👀 I’m interested in creating window application and web development
+- 👀 I’m interested in developing software application
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on web development team
 - 📫 How to reach me icyjoype02@gmail.com
